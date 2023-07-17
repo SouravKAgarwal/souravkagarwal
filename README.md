@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkagarwal" alt="souravkagarwal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/souravkagarwal" target="blank"><img src="https://img.shields.io/twitter/follow/souravkagarwal?logo=twitter&style=for-the-badge" alt="souravkagarwal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/souravk_agarwal" target="blank"><img src="https://img.shields.io/twitter/follow/souravk_agarwal?logo=twitter&style=for-the-badge" alt="souravkagarwal" /></a> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
