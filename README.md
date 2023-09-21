@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 👨‍💻 All of my projects are available at[Sourav Kumar Agarwal](itsska.vercel.app)
+- 👨‍💻 All of my projects are available at [Sourav Kumar Agarwal](https://itsska.vercel.app)
 
 - 📫 How to reach me **aggarwalsaurav948@gmail.com**
 
