@@ -1,15 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sourav Kumar Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey, I'm Sourav Kumar Agarwal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="souravkagarwal" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-FF5733?logo=web&logoColor=white&style=flat-square)](https://heysourav.vercel.app)
 
-<p> <a href="https://itsska.vercel.app" target="blank"><img src="https://img.shields.io/badge/portfolio-black?logo=protodotio&logoColor=white&style=for-the-badge" alt="souravkagarwal" /></a> </p>
+I'm a **Full Stack Web Developer** passionate about crafting scalable, user-friendly web apps with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Next.js**. I thrive on solving complex front-end and back-end challenges and love experimenting with new tech through side projects that spark my creativity.
 
-- 🔭 I’m currently working on **MERN STACK**
+🔍 **Currently**: Building innovative web solutions and seeking exciting collaborations!  
+🌱 **Learning**: Advanced Next.js, Redis, and AI-driven development.  
+💬 **Ask me about**: MERN stack, Next.js, or responsive design.
 
-- 👨‍💻 All of my projects are available at [Sourav Kumar Agarwal](https://itsska.vercel.app)
+---
 
-- 📫 How to reach me **aggarwalsaurav948@gmail.com**
+## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### [Blogify](https://github.com/SouravKAgarwal)
+A sleek blogging platform with user authentication, post creation, editing, and social sharing.  
+**Tech Stack**: Next.js, MongoDB, TailwindCSS
+
+### [E-Learning](https://github.com/SouravKAgarwal)
+A robust Learning Management System (LMS) for online education, featuring course creation, user enrollment, and progress tracking.  
+**Tech Stack**: Next.js, Express.js, MongoDB, VideoCapter, TailwindCSS
+
+### [MyGPT](https://github.com/SouravKAgarwal)
+An AI-powered chat app with real-time messaging, user authentication, and responsive design.  
+**Tech Stack**: React.js, Express.js, MongoDB, TailwindCSS, Gemini API
+
+---
+
+## 🛠️ Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Python Basics for Data Science** – IBM (2022)
+- **Meta Hacker Cup** – Recognized by Facebook for 7596th position (2022)
+- **Front End Development - HTML** – Great Learning Academy (2024)
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub**: [SouravKAgarwal](https://github.com/SouravKAgarwal)  
+- **LinkedIn**: [souravkagarwal](https://linkedin.com/in/souravkagarwal)  
+- **Phone**: +91 6001386472  
+- **Location**: Guwahati, India
+
+---
+
+⭐️ **Fun Fact**: I’m always tinkering with new frameworks to push my coding limits!  
+Explore my repos or drop me a message to collaborate on something cool! 🚀
