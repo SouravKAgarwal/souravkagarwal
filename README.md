@@ -89,7 +89,8 @@ I'm a **Full Stack Web Developer** passionate about crafting scalable, user-frie
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [souravkagarwal](https://linkedin.com/in/souravkagarwal)  
+- **LinkedIn**: [souravkagarwal](https://linkedin.com/in/souravkagarwal)
+- **Gmail**: aggarwalsaurav948@gmail.com
 
 ---
 
